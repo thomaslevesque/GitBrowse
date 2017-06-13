@@ -14,7 +14,7 @@ Open the webpage for the `foobar` remote:
 ## Git alias
 A nicer way to use it is to create a git alias. I like to call mine `hub`, because `git hub` :wink:
 ```
-> git config --global alias.hub1 '!GitBrowse $1'
+> git config --global alias.hub '!GitBrowse $1'
 ```
 You can then use it like this:
 ```
